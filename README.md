@@ -1,5 +1,8 @@
 # flutter_news_app
 
+## Mobile Application That Get News From Business, Sports And Science.
+## Control Light And Dark Mode Using Shared Preference.
+
 A new Flutter project.
 
 ## Getting Started
